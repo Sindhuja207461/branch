@@ -1,1 +1,2 @@
-echo "hello"c
+echo "hello"
+echo "hi ra"
